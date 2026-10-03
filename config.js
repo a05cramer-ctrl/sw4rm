@@ -1,0 +1,1 @@
+window.SW4RM_CFG={NAME:"SW4RM",TICKER:"SW4RM",CA:"",CHAIN:"solana",PAD:"pumpfun",PAIR:"",X:"",BUY:"",CHART:""};
